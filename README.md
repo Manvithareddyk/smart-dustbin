@@ -7,9 +7,7 @@ code execution, for sensing we used ultrasonic sensor which will open the lid an
 will bring drastic changes in terms of cleanliness with the help of technology. Everything is getting smart 
 with  technology for the  betterment of human beings. This helps in maintaining the environment clean with 
 the help of technology. It is a sensor based dustbin so it would be easy to access/use for any age group.
-git add "Circuit Diagram.png"
-git commit -m "Added Circuit Diagram image"
-git push origin main
+![Circuit Diagram](Circuit Diagram.png)
 
 
 
