@@ -8,4 +8,6 @@ will bring drastic changes in terms of cleanliness with the help of technology. 
 with  technology for the  betterment of human beings. This helps in maintaining the environment clean with 
 the help of technology. It is a sensor based dustbin so it would be easy to access/use for any age group.  
 git add Circuit Diagram.png
+git commit -m "Added Circuit Diagram image"
+
 
